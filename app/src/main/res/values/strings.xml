@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MEU TV APP</string>
+    <string name="app_name">MEU TV</string>
     <string name="netuptv_for_online_streaming">MEU-TV Live Streaming App</string>
     <string name="prompt_email">User Name</string>
     <string name="prompt_password">Password</string>
