@@ -14,9 +14,9 @@
         android:id="@id/txtmain"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:paddingTop="10dp"
         android:paddingStart="125sp"
-        android:text="@string/iptv"
+        android:paddingTop="10dp"
+        android:text="@string/meutv"
         android:textSize="28sp"
         android:textStyle="bold" />
 
