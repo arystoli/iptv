@@ -23,7 +23,7 @@ class About : AppCompatActivity() {
 
         val txtVer = findViewById<View>(R.id.txtver) as TextView
         txtVer.text = "                                  Version: " + vercode + "\n" +
-                "User: " + prefs.getString("id", null) + "\n" +
+                "Username: " + prefs.getString("id", null) + "\n" +
                 "Developer: MeU - Solutions Dev Team" + "\n" +
                 "Last Build: " + last
     }
