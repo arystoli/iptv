@@ -14,6 +14,7 @@
     <string name="browse">Browse</string>
     <string name="logout">Logout</string>
     <string name="iptv">IPTV</string>
+    <string name="meutv">MEU-TV</string>
 
     <string name="title_activity_exo_player">Player</string>
     <string name="dummy_button">Dummy Button</string>
