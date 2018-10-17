@@ -19,4 +19,4 @@ Reading M3U / M3U8 file & displaying Channels.
     <img src="Screenshot_2.png" height="450px"/>
     <img src="Screenshot_3.png" height="450px"/>
 </p>
-**MeU - Solutions Dev Team**
+***MeU - Solutions Dev Team***
