@@ -4,6 +4,8 @@ Select an Channel to play.
 Channel list is Obtained from List Provided.
 Reading M3U / M3U8 file & displaying Channels.
 
+
+
 ***Contributions | Contributors are welcome*** 👍😍
 
 ![project](https://img.shields.io/badge/project-continue-brightgreen.svg)
@@ -19,4 +21,5 @@ Reading M3U / M3U8 file & displaying Channels.
     <img src="Screenshot_2.png" height="450px"/>
     <img src="Screenshot_3.png" height="450px"/>
 </p>
-***MeU - Solutions Dev Team***
+
+***##<p align='right'>Meu - Solutions Dev Team</p>***
